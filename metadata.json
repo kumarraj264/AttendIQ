@@ -1,0 +1,6 @@
+{
+  "name": "AttendIQ",
+  "description": "Smart classroom attendance system featuring teacher broadcasting, live session PINs, student attendance verification, and detailed reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

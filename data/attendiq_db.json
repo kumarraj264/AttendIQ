@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "teacher_1791223987337",
+      "role": "TEACHER",
+      "name": "Dr. GGV Faculty",
+      "email": "faculty@ggu.ac.in",
+      "identifier": "FAC-CSIT-001",
+      "department": "Computer Science & Engineering",
+      "passwordHash": "password2025",
+      "createdAt": "2026-10-05T18:13:07.337Z",
+      "_id": "6ac3e8b3f045a3527bb50830"
+    },
+    {
+      "id": "student_1791275870543",
+      "role": "STUDENT",
+      "name": "Test Student",
+      "email": "test-stu-01@ggu.ac.in",
+      "identifier": "TEST-STU-01",
+      "department": "Computer Science & Engineering",
+      "passwordHash": "testpassword123",
+      "createdAt": "2026-10-06T08:37:50.543Z",
+      "_id": "6ac4b35ef3c9a946b31664d3"
+    },
+    {
+      "id": "student_1791275890334",
+      "role": "STUDENT",
+      "name": "Aman Sharma",
+      "email": "aman.sharma@ggu.ac.in",
+      "identifier": "GGV/23/04812",
+      "department": "Computer Science & Engineering",
+      "passwordHash": "mySecretPassword99",
+      "createdAt": "2026-10-06T08:38:10.334Z",
+      "_id": "6ac4b372140441a614d9cc35"
+    }
+  ],
+  "sessions": [],
+  "attendance": []
+}
